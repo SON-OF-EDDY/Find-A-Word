@@ -12,7 +12,7 @@ using System.Linq;
 
 public class APIHelper : MonoBehaviour
 {
-    private const string apiKey = "880916bf-b66b-4cd8-87a9-c6c4daadc45c";
+    private const string apiKey = "YOUR_API_KEY";
     private const string url = "https://api.arliai.com/v1/chat/completions";
 
     // Public property to store the word list
